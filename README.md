@@ -1,13 +1,11 @@
 # circles_dataset
-## Multiple circle detection in images: a new benchmark and a simple evolutionary algorithm approach
+## Multiple circle detection in images: a simple evolutionary algorithm approach and a new benchmark of images
 
-Add abstract
+[Abstract pending]
 
 ### Authors
-  Add authors and their ORCID
+[authors pending]  
   
-  
-We kindly asked you to cite these dataset
-
-Add DOI and bibtex
+We kindly asked you to cite our paper.
+[DOI pending]
 
