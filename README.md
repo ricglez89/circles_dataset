@@ -3,7 +3,7 @@
 
 [Abstract pending]
 
-This set of benchmark images provides images with challenging features in order to assess algorithms that tackle the circle detection problem.
+This benchmark provides images with challenging features in order to assess image processing algorithms that tackle the circle detection problem.
 
 ### Authors
 [authors pending]  
