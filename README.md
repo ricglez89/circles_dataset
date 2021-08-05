@@ -7,5 +7,6 @@ The circle detection problem focuses on finding all circle shapes within a given
 Miguel R. González, Miguel E. Martínez, María Cosío-León, Humberto Cervantes & Carlos A. Brizuela
   
 We kindly asked you to cite our paper.
-!(Link)[https://doi.org/10.1007/s10044-021-01007-6]
+
+https://doi.org/10.1007/s10044-021-01007-6
 
